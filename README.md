@@ -1,13 +1,13 @@
 <h1 align="center">hello! i'm steven</h1>
 
-<div align="center">
-  <img src="assets/my_banner.png" width="100%" alt="banner" />
-</div>
-
 <p align="center">
   welcome to my github page! here you can find my public repositories and
   everything else you would normally find on a github page...
 </p>
+
+<div align="center">
+  <img src="assets/my_banner.png" width="100%" alt="banner" />
+</div>
 
 <br/>
 
@@ -18,8 +18,6 @@
   if you're interested in seeing any of my projects consider checking out my website at
   <b>stevanoac.dev</b>. you can also find my contact on that website and below.
 </p>
-
-<br/>
 
 <h3 align="center">contact</h3>
 
@@ -32,8 +30,6 @@
   <b>email</b>: hello@stevanoac.dev<br>
   <b>site</b>: stevanoac.dev
 </p>
-
-<br/>
 
 <h3 align="center">languages and apps</h3>
 <div align="center">
